@@ -1,0 +1,160 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.navbar.bg-body-tertiary {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10 200px;
+}
+
+.navbar-brand {
+    margin-right: 50px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 87px;
+    text-align: center;
+    color: black;
+    vertical-align: top;
+    margin-top: 37px;
+}
+
+#slogan {
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: medium;
+    line-height: 43px;
+}
+
+.btn.btn-primary.btn-lg {
+    display: flex;
+    justify-content: center;
+}
+
+.btn.btn-primary.btn-lg.button-left {
+    margin-right: 20px;
+}
+
+.btn.btn-primary.btn-lg.buttonfa-pull-right {
+    margin-left: 20px;
+    border: 1.5px solid rgb(111, 194, 71);
+}
+
+#evaluation {
+    width: 1260px;
+    height: 637px;
+}
+
+div.container h3,
+.horizontal div {
+    display: flex;
+    justify-content: space-between;
+    align-content:start;
+    text-align: center;
+    color: black;
+    margin: 0 auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    margin-top: 20px;
+}
+
+
+.row.employees {
+    font-weight: lighter;
+    font-size: 20px;
+    text-align: center;
+}
+
+.frame {
+    padding: 20px;
+    text-align: center;
+    background: rgba(249, 249, 249, 1);
+    margin-bottom: 10px;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    
+  }
+  
+.frame img {
+    display:inline;
+    margin: auto;
+  }
+
+.box{
+    width: 1513px;
+    top: 200px;
+   background: rgba(17, 17, 17, 1);
+    margin-top: 50px;
+}
+
+.subtext-title{
+    
+    font-weight: lighter;
+    padding-bottom: 20px;
+    font-size: 12px;
+    width: 370px;
+    line-height: 20px;
+    color: rgb(255, 255, 255);
+}
+
+
+#subtitle{
+    color: white;
+}
+
+#content{
+    display:flex;
+  justify-content:center;
+  width: none;
+    height: 30% 
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+#container{
+    margin-top: 40px;
+    display: flex;
+    background-color:rgb(247, 247, 247);
+    height: 820px;
+}
+
+#frame_39{
+    display: flex;
+    flex-direction: column;
+    height: 700px;
+    width: 400px;
+    margin: 80px 150px 0;
+    padding: auto;
+    color: black;
+}
+
+#head{
+    align-content:space-around;
+    display: flex;
+    flex-direction: column;
+    line-height: 30px;
+}
+
+.button-center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+    position: relative;
+}
+
+.top-button{
+    top: 0;
+    margin-bottom: 500px;
+    position: absolute;
+}
